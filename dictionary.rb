@@ -39,6 +39,15 @@
   ['it costs twenty pounds','это стоит двадцать фунтов'],
   ['this lesson helps me','этот урок помогает мне'],
   ['i wash up the dishes','я мою посуду'],
-  ['i often go there','я часто хожу туда']
+  ['i often go there','я часто хожу туда'],
+  ['my friend tries to help my brother','мой друг пытается помочь моему брату'],
+  ['my sister has a boyfriend','у моей сестры есть парень'],
+  ['i also think so','я также думаю так'],
+  ['i think so, too','я думаю так также'],
+  ['my uncle often goes to china','мой дядя часто ездиет в китай'],
+  ['my friend often tries to do it','мой друг часто пытается делать это'],
+  ['her mother teaches english','ее мама преподает английский'],
+  ['their parents live there','их родители живут там'],
+  ['we do business','мы занимаемся бизнесом']
   
 ]
