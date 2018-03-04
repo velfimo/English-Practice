@@ -2,7 +2,7 @@ require_relative 'dictionary'
 
 loop do
 
-  chaos = rand(0..40)
+  chaos = rand(0..49)
 
   puts "\n#{@dictionary[chaos][1]}"
 
